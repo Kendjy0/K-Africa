@@ -12,3 +12,9 @@ Objektif prensipal li se fè mòd afriken an vin plis aksesib, plis modèn, e pl
 - Yon sistèm pèyman 
 
 ## Maybe Have
+- Posibilite pou sove pwodwi nan “Favorite”.
+
+## Would be Nice to Have
+- Rabe 15% sou chak pwodwi achte atravè K-Africa.
+- Yon pwogram fidèlite kote itilizatè yo touche pwen pou chak acha.
+- Livrezon gratis pou yon kantite minimòm acha.
